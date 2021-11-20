@@ -9,6 +9,12 @@ npm install -g anypoint-cli@latest
 ```
 
 ## [Setup credentials](https://docs.mulesoft.com/runtime-manager/anypoint-platform-cli#credentials-file)
+> Save the file in 
+```
+C:\Users\USERNAME\.anypoint\credentials
+> For me
+C:\Users\dereje\.anypoint\credentials
+```
 ```json
 {
  "default": {
